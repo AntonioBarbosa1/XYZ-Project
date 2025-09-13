@@ -70,6 +70,7 @@ The global ridesharing market is projected to exceed **\$200B by 2030**. Many in
 
 * Driver
 * Car Owner
+* Rider
 * System (RideFlex Platform)
 
 **Sample Use Cases:**
@@ -79,6 +80,7 @@ The global ridesharing market is projected to exceed **\$200B by 2030**. Many in
 * System → Process Payment
 * Driver/Owner → Leave Review
 * Owner → View Analytics
+* Rider → Book Ride With Driver
 
 (I can sketch the UML diagrams for you in clean format if you’d like visuals for the report + presentation.)
 
