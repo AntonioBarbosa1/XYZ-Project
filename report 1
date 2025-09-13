@@ -1,0 +1,118 @@
+
+
+---
+
+# **Progress Report 1: Requirement Analysis**
+
+**Company Name:** RideFlex Technologies
+**Project Name:** RideFlex – A Hybrid Uber + Turo Car Rental & Rideshare Platform
+
+---
+
+## 1. **Business Case**
+
+The global ridesharing market is projected to exceed **\$200B by 2030**. Many individuals are excluded from ridesharing due to lack of vehicle ownership, while millions of cars remain unused by their owners. RideFlex addresses this market inefficiency by connecting drivers who need vehicles with owners willing to rent them out securely.
+
+**Why now?**
+
+* Post-pandemic, rideshare demand is increasing again.
+* Drivers want flexible access without long-term contracts.
+* Owners want passive income from idle vehicles.
+
+**Opportunity:** RideFlex combines **Uber’s driver access model** with **Turo’s peer-to-peer rentals**, creating a new revenue stream for both parties and a platform for investors.
+
+---
+
+## 2. **Problem Statement**
+
+* **Drivers:** Lack of access to affordable vehicles for ridesharing services.
+* **Owners:** Struggle to monetize unused vehicles safely and reliably.
+* **Market:** No integrated platform exists to solve both sides’ problems with security, payments, and analytics.
+
+**Proposed Solution:** RideFlex provides a **secure, user-friendly web application** for drivers to rent cars for ridesharing and for owners to profit from idle vehicles.
+
+---
+
+## 3. **Revenue Model**
+
+1. **Commission-based Model:** 15% fee per completed rental transaction.
+2. **Subscription Plans:** Premium vehicle listings for owners (\$20/month).
+3. **Value-Added Services:** Insurance add-ons, cleaning packages, maintenance partnerships.
+4. **Data Insights:** Analytics packages for owners to track car performance and revenue.
+
+---
+
+## 4. **Functional Requirements**
+
+* **User Management:** Sign-up/login for drivers and owners.
+* **Owner Features:** Add/update/delete car listings, set pricing, manage availability.
+* **Driver Features:** Search/browse cars, book rentals, payment processing.
+* **Booking System:** Real-time availability + reservation management.
+* **Payments:** Secure online transactions with commission handling.
+* **Ratings/Reviews:** Drivers review cars, owners review drivers.
+* **Analytics Dashboard:** Vehicle utilization, earnings, booking trends.
+
+---
+
+## 5. **Non-Functional Requirements**
+
+* **Performance:** System must handle 1,000 concurrent users.
+* **Security:** Encrypt all sensitive user/payment data.
+* **Usability:** Mobile-first responsive design for accessibility.
+* **Availability:** Uptime ≥ 99%.
+* **Scalability:** Capable of supporting expansion into new cities.
+
+---
+
+## 6. **Use Case Diagrams**
+
+**Main Actors:**
+
+* Driver
+* Car Owner
+* System (RideFlex Platform)
+
+**Sample Use Cases:**
+
+* Driver → Book Car
+* Owner → List Car
+* System → Process Payment
+* Driver/Owner → Leave Review
+* Owner → View Analytics
+
+(I can sketch the UML diagrams for you in clean format if you’d like visuals for the report + presentation.)
+
+---
+
+## 7. **Feasibility Studies**
+
+* **Technical Feasibility:** Uses common stack (React, Node.js, MySQL/Postgres), already proven in production systems.
+* **Economic Feasibility:** Low development cost (student cloud hosting), scalable monetization ensures future profitability.
+* **Operational Feasibility:** Simple workflows for users, clear revenue generation model.
+* **Schedule Feasibility:** Project deliverable by **December 2025** via agile sprints:
+
+  * Sept: Requirements + Design
+  * Oct: Core Features (Auth, Listings, Bookings)
+  * Nov: Payments + Analytics + Testing
+  * Dec: Final Integration & Presentation
+
+---
+
+## 8. **Key Performance Indicators (KPIs) – Requirement Phase**  
+
+* **Accuracy of Requirements:** % of functional requirements mapped to business needs.
+* **Stakeholder Alignment:** % of business goals addressed by requirements.
+* **Clarity:** Ambiguity reduction rate in requirement statements.
+* **Feasibility Coverage:** All four feasibility studies completed.
+* **Timeline Compliance:** Milestones achievable within Dec deadline.
+
+---
+
+## 🎥 Presentation Format (Pitch-Style)
+
+* **Company:** RideFlex Technologies
+* **CEO (Presenter):** You (or chosen group leader)
+* **Pitch Video (≤12 min):**
+
+  1. Problem → 2. Solution → 3. Market Opportunity → 4. Business Model → 5. Demo Screens (mockups in Figma) → 6. Revenue + Feasibility → 7. Closing & Call to Invest
+
